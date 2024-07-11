@@ -1,0 +1,80 @@
+{
+  "icecreams": [
+    {
+      "flavor": "Vanilla",
+      "description": "Classic and creamy vanilla flavor loved by everyone.",
+      "toppings": ["Chocolate Sauce", "Sprinkles", "Whipped Cream"],
+      "price": 4.99,
+      "image": "https://images.unsplash.com/photo-1560008581-09826d1de69e?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": [
+        { "name": "Vanilla Extract", "quantity": "2 tsp" },
+        { "name": "Heavy Cream", "quantity": "2 cups" },
+        { "name": "Sugar", "quantity": "3/4 cup" }
+      ]
+    },
+    {
+      "flavor": "Chocolate",
+      "description": "Rich and indulgent chocolate ice cream made from premium cocoa.",
+      "toppings": ["Caramel Drizzle", "Chopped Nuts", "Chocolate Chips"],
+      "price": 5.49,
+      "image": "https://images.unsplash.com/photo-1514849302-984523450cf4?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": [
+        { "name": "Cocoa Powder", "quantity": "1/2 cup" },
+        { "name": "Whipping Cream", "quantity": "1 1/2 cups" },
+        { "name": "Egg Yolks", "quantity": "4" }
+      ]
+    },
+    {
+      "flavor": "Pistachio",
+      "description": "Creamy pistachio ice cream with a nutty flavor and pale green color.",
+      "toppings": [
+        "Chopped Pistachios",
+        "White Chocolate Shavings",
+        "Honey Drizzle"
+      ],
+      "price": 5.99,
+      "image": "https://images.unsplash.com/photo-1543255006-d6395b6f1171?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": [
+        { "name": "Pistachio Paste", "quantity": "1/2 cup" },
+        { "name": "Milk", "quantity": "2 cups" },
+        { "name": "Almond Extract", "quantity": "1/4 tsp" }
+      ]
+    },
+    {
+      "flavor": "Caramel Swirl",
+      "description": "Smooth vanilla ice cream with ribbons of rich caramel throughout.",
+      "toppings": ["Caramel Popcorn", "Toffee Bits", "Sea Salt"],
+      "price": 5.29,
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": [
+        { "name": "Caramel Sauce", "quantity": "1/2 cup" },
+        { "name": "Brown Sugar", "quantity": "1/2 cup" },
+        { "name": "Butter", "quantity": "1/4 cup" }
+      ]
+    },
+    {
+      "flavor": "Mint Chocolate Chip",
+      "description": "Refreshing mint ice cream studded with dark chocolate chips.",
+      "toppings": ["Chocolate Fudge", "Mint Leaves", "Crushed Oreos"],
+      "price": 5.79,
+      "image": "https://images.unsplash.com/photo-1481391032119-d89fee407e44?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": [
+        { "name": "Peppermint Extract", "quantity": "1 tsp" },
+        { "name": "Green Food Coloring", "quantity": "2 drops" },
+        { "name": "Chocolate Chips", "quantity": "1 cup" }
+      ]
+    },
+    {
+      "flavor": "Strawberry",
+      "description": "Creamy strawberry ice cream made with fresh, ripe strawberries.",
+      "toppings": ["Fresh Strawberries", "Whipped Cream", "Strawberry Sauce"],
+      "price": 5.19,
+      "image": "https://images.unsplash.com/photo-1618485476408-4aca780ba55c?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "ingredients": [
+        { "name": "Fresh Strawberries", "quantity": "2 cups" },
+        { "name": "Lemon Juice", "quantity": "1 tbsp" },
+        { "name": "Vanilla Extract", "quantity": "1 tsp" }
+      ]
+    }
+  ]
+}
